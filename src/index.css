@@ -1,13 +1,22 @@
-body {
+*{
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  
+}
+body {
+  background: url('./assets/bg.svg');
+  background-repeat: none;
+  background-size: contain;
+  background-position: right top;
+  background-repeat: no-repeat;
+  background-size: 100vh;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+@font-face{
+  font-family: Proxima;
+  src: url(./fonts/Proxima.otf)
 }
