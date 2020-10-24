@@ -7,7 +7,7 @@ export const Home = () => {
             <img className="main__blob" src={require('../assets/blob.svg')}></img>
             <div className="main__intro">
                 <h1>Hi There</h1>
-                <h4>I'm Peshal Agarwal and I'm a Data Scientist</h4>
+                <h4>I'm Peshal Agarwal</h4>
                 <h6>This site is under construction....</h6>
             </div>
             <div className="main__image">
