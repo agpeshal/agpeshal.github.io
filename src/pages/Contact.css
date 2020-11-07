@@ -1,4 +1,3 @@
-
 .contact > h1 {
   font-family: sans-serif;
   font-weight: normal;
@@ -7,10 +6,9 @@
   padding: 200px 0 100px;
   color: #000;
   text-align: center;
-
 }
 
-.contact__icons{
+.contact__icons {
   display: flex;
   justify-content: center;
 }
@@ -33,7 +31,7 @@
 
 .contact__icons > a i {
   font-size: 35px;
-  color: #000;
+  color: gray;
   transition: transform 0.5s;
 }
 
@@ -41,8 +39,7 @@
   box-shadow: inset 4px 4px 6px -1px rgba(0, 0, 0, 0.2),
     inset -4px -4px 6px -1px rgba(255, 255, 255, 0.7),
     -0.5px -0.5px 5px 0px rgba(255, 255, 255, 1),
-    0.5px 0.5px 0px rgba(0, 0, 0, 0.15),
-    0px 12px 10px -10px rgba(0, 0, 0, 0.05);
+    0.5px 0.5px 0px rgba(0, 0, 0, 0.15), 0px 12px 10px -10px rgba(0, 0, 0, 0.05);
   border: 1px solid rgba(0, 0, 0, 0.01);
   transform: translateY(1.5px);
 }
@@ -52,10 +49,10 @@
 }
 
 .contact__icons a:nth-child(1):hover i {
-  color: #3b5998
+  color: #3b5998;
 }
 .contact__icons a:nth-child(2):hover i {
-  color: #00acee
+  color: #00acee;
 }
 
 .contact__icons a:nth-child(3):hover i {
@@ -63,6 +60,9 @@
 }
 
 .contact__icons a:nth-child(4):hover i {
-  color: #0e76a9
+  color: #0e76a9;
 }
 
+.contact__icons a:nth-child(5):hover i {
+  color: #000;
+}
