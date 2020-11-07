@@ -35,12 +35,12 @@ const data = [
     summary:
       "Analysed data with 700 attributes of 18 key commodities covering 140 markets across 100 districts of Syria over 22 months collected by IMPACT Initiatives (NGO) and predicted volatility and trend to assess the amount of cash transfer.",
   },
-//   {
-//     title: "Some Random Title",
-//     image: require("../assets/drug_rating.png"),
-//     summary:
-//       "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
-//   },
+  {
+    title: "Adversarial ML",
+    image: require("../assets/robustness.png"),
+    summary:
+      "Implemented Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD) attacks on networks trained over CIFAR10 and MNIST.",
+  },
 ];
 
 export default data;
