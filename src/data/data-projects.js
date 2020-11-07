@@ -1,46 +1,46 @@
 const data = [
   {
-    title: "Some Random Title",
-    image: require("../assets/drug_rating.png"),
+    title: "Continual Learning",
+    image: require("../assets/imagenet-c.png"),
     summary:
-      "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
+      "(Master Thesis in progress) Working on implicit modeling of data from label space for continual learning.",
   },
   {
-    title: "Some Random Title",
-    image: require("../assets/drug_rating.png"),
+    title: "Tissue Classification",
+    image: require("../assets/gene_1.png"),
     summary:
-      "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
+      "Predicted epithelial to mesenchymal transition and tissue hypoxia by using gene expression level of 35 genes for over 10k imbalanced samples for multiple domains. XGBoost performed the best among other methods.",
   },
   {
-    title: "Some Random Title",
+    title: "Patient ratings and reviews",
     image: require("../assets/drug_rating.png"),
     summary:
-      "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
+      "Analysed data of 280k patients' drug reviews and ratings under different conditions and treatments. Implemented RNNs to accurately predict drug ratings based on their reviews.",
   },
   {
-    title: "Some Random Title",
-    image: require("../assets/drug_rating.png"),
+    title: "Topic Modeling with meta-data",
+    image: require("../assets/topic_modeling.png"),
     summary:
-      "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
+      "Analysed Dirichlet-Multinomial Regression (DMR) model for topic modeling with metadata. Derived and implemented Stochastic Gradient Riemann Langevin Dynamics on DMR model.",
   },
   {
-    title: "Some Random Title",
-    image: require("../assets/drug_rating.png"),
+    title: "Bayesian Analysis of GSN",
+    image: require("../assets/skew_normal_2.png"),
     summary:
-      "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
+      "Formulated suitable parameters on all the three parameters of Geometric Skew Normal distribution to perform Bayesian analysis and evaluated the fit on multiple datasets using Kolmogorov-Smirnov test statistic.",
   },
   {
-    title: "Some Random Title",
-    image: require("../assets/drug_rating.png"),
+    title: "Price Change Indicator",
+    image: require("../assets/price_change.png"),
     summary:
-      "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
+      "Analysed data with 700 attributes of 18 key commodities covering 140 markets across 100 districts of Syria over 22 months collected by IMPACT Initiatives (NGO) and predicted volatility and trend to assess the amount of cash transfer.",
   },
-  {
-    title: "Some Random Title",
-    image: require("../assets/drug_rating.png"),
-    summary:
-      "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
-  },
+//   {
+//     title: "Some Random Title",
+//     image: require("../assets/drug_rating.png"),
+//     summary:
+//       "Fusce dui sapien, ultrices eget volutpat vel, convallis sit amet purus. Aliquam sagittis lorem sit amet finibus eleifend. Aliquam pellentesque porttitor accumsan. Morbi rhoncus ullamcorper enim, non blandit dui vulputate ut.",
+//   },
 ];
 
 export default data;
