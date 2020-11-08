@@ -9,7 +9,7 @@ const Experiences = () => {
           <div className="content">
             <h2>IBM Research Zurich</h2>
             <div className="content__div">
-              <img src={require("../assets/IBM.png")} alt=""></img>
+              <img src={require("../assets/ibm_zurich_board.jpeg")} alt=""></img>
               <p>
                 Experimented with state-of-the-art end-to-end differential ensemble architectures
                 and, compared and contrasted them with Gradient Boosted Decision Trees. Our work 
@@ -23,7 +23,7 @@ const Experiences = () => {
           <div className="content">
             <h2>Goldman Sachs</h2>
             <div className="content__div">
-              <img src={require("../assets/gs.png")} alt=""></img>
+              <img src={require("../assets/GoldmanSachs.jpeg")} alt=""></img>
               <p>
                 Evaluated the total upcoming risk and Initial Margin due to swaptions
                 and implemented strategies for reduction in net Initial Margin to be posted.
@@ -32,19 +32,31 @@ const Experiences = () => {
             </div>
           </div>
         </div>
-        {/* <div className="container left">
+        <div className="container left">
           <div className="content">
             <h2>Fractal Analytics</h2>
             <div className="content__div">
-              <img src={require("../assets/fractal.png")} alt=""></img>
+              <img src={require("../assets/fractal_reception.jpg")} alt=""></img>
               <p>
+                Implemented Named Entity Recognizer based on Conditional Random Field to
+                develop a generic clustering algorithm for product description data 
+              </p>
+            </div>
+          </div>
+        </div>
+        {/* <div className="container right">
+        <div className="content">
+            <h2>Indian Institute of Science</h2>
+            <div className="content__div">
+            <img src={require("../assets/fractal.png")} alt=""></img>
+            <p>
                 Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec
                 admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea
                 quis iuvaret expetendis his, te elit voluptua dignissim per,
                 habeo iusto primis ea eam.
-              </p>
+            </p>
             </div>
-          </div>
+        </div>
         </div> */}
       </div>
     </div>
