@@ -9,8 +9,8 @@ export const Home = () => {
       <div className="main__intro">
         <h1>Hi There</h1>
         <h4>
-          I'm Peshal Agarwal and I am an aspiring Data Scientist. I am currently
-          studying Statistics at ETH Zurich
+          I'm Peshal Agarwal, an aspiring Machine Learning Engineer. I am graduate
+          student at ETH Zurich majoring in Statistics.
         </h4>
         <div className="main__introBtn">
           <Button
