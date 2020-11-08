@@ -6,7 +6,7 @@
 .main__intro {
   flex-basis: 100%;
   margin: 250px;
-  margin-top: 20%;
+  margin-top: 18%;
   font-size: 25px;
   font-family: Proxima;
   font-weight: lighter;
@@ -18,8 +18,18 @@
   height: 100vh;
 }
 
-.main__intro > h5 {
+.main__intro > h4 {
   font-family: Proxima-Thin;
   letter-spacing: 0.1ch;
-  font-size: 16px;
+  font-size: 15px;
+}
+
+.main__introBtn {
+  padding-top: 10px;
+  display: flex;
+}
+
+.main__introBtn > .MuiButton-root {
+  margin-right: 10px;
+  width: 150px;
 }
