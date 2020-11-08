@@ -1,25 +1,38 @@
 {
   "files": {
-    "main.css": "/static/css/main.f12a1c39.chunk.css",
-    "main.js": "/static/js/main.aaf77f0c.chunk.js",
-    "main.js.map": "/static/js/main.aaf77f0c.chunk.js.map",
+    "main.css": "/static/css/main.2a310ad1.chunk.css",
+    "main.js": "/static/js/main.d2fc2372.chunk.js",
+    "main.js.map": "/static/js/main.d2fc2372.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a6181433.js",
     "runtime-main.js.map": "/static/js/runtime-main.a6181433.js.map",
-    "static/js/2.7d260633.chunk.js": "/static/js/2.7d260633.chunk.js",
-    "static/js/2.7d260633.chunk.js.map": "/static/js/2.7d260633.chunk.js.map",
+    "static/js/2.0049731a.chunk.js": "/static/js/2.0049731a.chunk.js",
+    "static/js/2.0049731a.chunk.js.map": "/static/js/2.0049731a.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.235094e11d3d3d237a0ee86e576faa24.js": "/precache-manifest.235094e11d3d3d237a0ee86e576faa24.js",
+    "precache-manifest.82f5b3d2ec177fc43426c8c84a581415.js": "/precache-manifest.82f5b3d2ec177fc43426c8c84a581415.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.f12a1c39.chunk.css.map": "/static/css/main.f12a1c39.chunk.css.map",
-    "static/js/2.7d260633.chunk.js.LICENSE.txt": "/static/js/2.7d260633.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/static/media/bg.f66b95b8.svg",
-    "static/media/blob.svg": "/static/media/blob.1ded6ca9.svg",
-    "static/media/peshal_final.png": "/static/media/peshal_final.4dedee84.png"
+    "static/css/main.2a310ad1.chunk.css.map": "/static/css/main.2a310ad1.chunk.css.map",
+    "static/js/2.0049731a.chunk.js.LICENSE.txt": "/static/js/2.0049731a.chunk.js.LICENSE.txt",
+    "static/media/GoldmanSachs.jpeg": "/static/media/GoldmanSachs.08e13eff.jpeg",
+    "static/media/index.css": "/static/media/Proxima.410504d4.otf",
+    "static/media/award.JPG": "/static/media/award.1588f175.JPG",
+    "static/media/degree.png": "/static/media/degree.32913427.png",
+    "static/media/drug_rating.png": "/static/media/drug_rating.4444b6b4.png",
+    "static/media/fractal_reception.jpg": "/static/media/fractal_reception.931bfea1.jpg",
+    "static/media/gene_2.png": "/static/media/gene_2.fbb169b3.png",
+    "static/media/ibm_zurich_board.jpeg": "/static/media/ibm_zurich_board.670b1b27.jpeg",
+    "static/media/imagenet-c.png": "/static/media/imagenet-c.12476ac3.png",
+    "static/media/paper.pdf": "/static/media/paper.6066e41b.pdf",
+    "static/media/peshal_final.png": "/static/media/peshal_final.4dedee84.png",
+    "static/media/price_change.png": "/static/media/price_change.b4ba3503.png",
+    "static/media/resume.pdf": "/static/media/resume.d4d32272.pdf",
+    "static/media/robustness.png": "/static/media/robustness.c3b7b3d1.png",
+    "static/media/skew_normal_2.png": "/static/media/skew_normal_2.ca9a4ed1.png",
+    "static/media/topic_modeling.png": "/static/media/topic_modeling.84da2d1d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a6181433.js",
-    "static/js/2.7d260633.chunk.js",
-    "static/css/main.f12a1c39.chunk.css",
-    "static/js/main.aaf77f0c.chunk.js"
+    "static/js/2.0049731a.chunk.js",
+    "static/css/main.2a310ad1.chunk.css",
+    "static/js/main.d2fc2372.chunk.js"
   ]
 }
