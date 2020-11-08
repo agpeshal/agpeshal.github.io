@@ -14,11 +14,11 @@ export const Contact = () => {
           <i className="fab fa-facebook"></i>
         </a>
         <a
-          href="https://www.facebook.com/peshal.agarwal"
+          href="mailto:peshala48@gmail.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          <i className="fab fa-twitter"></i>
+          <i className="fas fa-envelope"></i>
         </a>
         <a
           href="https://www.instagram.com/peshal.agarwal/"
