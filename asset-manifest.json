@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.2a310ad1.chunk.css",
-    "main.js": "/static/js/main.d2fc2372.chunk.js",
-    "main.js.map": "/static/js/main.d2fc2372.chunk.js.map",
+    "main.css": "/static/css/main.a8e99290.chunk.css",
+    "main.js": "/static/js/main.5141dd42.chunk.js",
+    "main.js.map": "/static/js/main.5141dd42.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a6181433.js",
     "runtime-main.js.map": "/static/js/runtime-main.a6181433.js.map",
-    "static/js/2.0049731a.chunk.js": "/static/js/2.0049731a.chunk.js",
-    "static/js/2.0049731a.chunk.js.map": "/static/js/2.0049731a.chunk.js.map",
+    "static/js/2.d6aa9212.chunk.js": "/static/js/2.d6aa9212.chunk.js",
+    "static/js/2.d6aa9212.chunk.js.map": "/static/js/2.d6aa9212.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.82f5b3d2ec177fc43426c8c84a581415.js": "/precache-manifest.82f5b3d2ec177fc43426c8c84a581415.js",
+    "precache-manifest.b0fba40255cae8a8883c23a6eca73b64.js": "/precache-manifest.b0fba40255cae8a8883c23a6eca73b64.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.2a310ad1.chunk.css.map": "/static/css/main.2a310ad1.chunk.css.map",
-    "static/js/2.0049731a.chunk.js.LICENSE.txt": "/static/js/2.0049731a.chunk.js.LICENSE.txt",
+    "static/css/main.a8e99290.chunk.css.map": "/static/css/main.a8e99290.chunk.css.map",
+    "static/js/2.d6aa9212.chunk.js.LICENSE.txt": "/static/js/2.d6aa9212.chunk.js.LICENSE.txt",
     "static/media/GoldmanSachs.jpeg": "/static/media/GoldmanSachs.08e13eff.jpeg",
     "static/media/index.css": "/static/media/Proxima.410504d4.otf",
     "static/media/award.JPG": "/static/media/award.1588f175.JPG",
@@ -22,6 +22,7 @@
     "static/media/ibm_zurich_board.jpeg": "/static/media/ibm_zurich_board.670b1b27.jpeg",
     "static/media/imagenet-c.png": "/static/media/imagenet-c.12476ac3.png",
     "static/media/paper.pdf": "/static/media/paper.6066e41b.pdf",
+    "static/media/pdf.png": "/static/media/pdf.7a144bb0.png",
     "static/media/peshal_final.png": "/static/media/peshal_final.4dedee84.png",
     "static/media/price_change.png": "/static/media/price_change.b4ba3503.png",
     "static/media/resume.pdf": "/static/media/resume.d4d32272.pdf",
@@ -31,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a6181433.js",
-    "static/js/2.0049731a.chunk.js",
-    "static/css/main.2a310ad1.chunk.css",
-    "static/js/main.d2fc2372.chunk.js"
+    "static/js/2.d6aa9212.chunk.js",
+    "static/css/main.a8e99290.chunk.css",
+    "static/js/main.5141dd42.chunk.js"
   ]
 }
