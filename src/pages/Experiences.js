@@ -13,7 +13,7 @@ const Experiences = () => {
               <p>
                 Experimented with state-of-the-art end-to-end differential ensemble architectures
                 and, compared and contrasted them with Gradient Boosted Decision Trees. Our work 
-                led to a <a href="https://proceedings.neurips.cc/paper/2020/file/7fd3b80fb1884e2927df46a7139bb8bf-Paper.pdf">publication</a> at 
+                led to a <a href="https://proceedings.neurips.cc/paper/2020/file/7fd3b80fb1884e2927df46a7139bb8bf-Paper.pdf" target="_blank">publication</a> at 
                 <b> NeurIPS</b>.
               </p>
             </div>
