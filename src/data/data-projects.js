@@ -7,7 +7,7 @@ const data = [
   },
   {
     title: "Tissue Classification",
-    image: require("../assets/gene_1.png"),
+    image: require("../assets/gene_2.png"),
     summary:
       "Predicted epithelial to mesenchymal transition and tissue hypoxia by using gene expression level of 35 genes for over 10k imbalanced samples for multiple domains. XGBoost performed the best among other methods.",
   },
