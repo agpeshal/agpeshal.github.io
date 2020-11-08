@@ -9,11 +9,21 @@ const Experiences = () => {
           <div className="content">
             <h2>IBM Research Zurich</h2>
             <div className="content__div">
-              <img src={require("../assets/ibm_zurich_board.jpeg")} alt=""></img>
+              <img
+                src={require("../assets/ibm_zurich_board.jpeg")}
+                alt=""
+              ></img>
               <p>
-                Experimented with state-of-the-art end-to-end differential ensemble architectures
-                and, compared and contrasted them with Gradient Boosted Decision Trees. Our work 
-                led to a <a href="https://proceedings.neurips.cc/paper/2020/file/7fd3b80fb1884e2927df46a7139bb8bf-Paper.pdf" target="_blank">publication</a> at 
+                Experimented with state-of-the-art end-to-end differential
+                ensemble architectures and, compared and contrasted them with
+                Gradient Boosted Decision Trees. Our work led to a{" "}
+                <a
+                  href="https://proceedings.neurips.cc/paper/2020/file/7fd3b80fb1884e2927df46a7139bb8bf-Paper.pdf"
+                  target="_blank"
+                >
+                  publication
+                </a>{" "}
+                at
                 <b> NeurIPS</b>.
               </p>
             </div>
@@ -25,9 +35,10 @@ const Experiences = () => {
             <div className="content__div">
               <img src={require("../assets/GoldmanSachs.jpeg")} alt=""></img>
               <p>
-                Evaluated the total upcoming risk and Initial Margin due to swaptions
-                and implemented strategies for reduction in net Initial Margin to be posted.
-                I was offerred <b>full-time role</b> considering my work.
+                Evaluated the total upcoming risk and Initial Margin due to
+                swaptions and implemented strategies for reduction in net
+                Initial Margin to be posted. I was offerred{" "}
+                <b>full-time role</b> considering my work.
               </p>
             </div>
           </div>
@@ -36,10 +47,14 @@ const Experiences = () => {
           <div className="content">
             <h2>Fractal Analytics</h2>
             <div className="content__div">
-              <img src={require("../assets/fractal_reception.jpg")} alt=""></img>
+              <img
+                src={require("../assets/fractal_reception.jpg")}
+                alt=""
+              ></img>
               <p>
-                Implemented Named Entity Recognizer based on Conditional Random Field to
-                develop a generic clustering algorithm for product description data 
+                Implemented Named Entity Recognizer based on Conditional Random
+                Field to develop a generic clustering algorithm for product
+                description data
               </p>
             </div>
           </div>

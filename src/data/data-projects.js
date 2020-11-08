@@ -4,6 +4,8 @@ const data = [
     image: require("../assets/imagenet-c.png"),
     summary:
       "(Master Thesis in progress) Working on implicit modeling of data from label space for continual learning.",
+    report: "none",
+    github: "",
   },
   {
     title: "Tissue Classification",

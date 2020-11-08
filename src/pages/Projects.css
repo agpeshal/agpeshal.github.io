@@ -4,6 +4,7 @@
   flex-direction: row;
   justify-content: center;
   flex-wrap: wrap;
+  margin-bottom: 20px;
 }
 .card > h4 {
   text-transform: uppercase;
@@ -16,6 +17,9 @@
   letter-spacing: 0.11ch;
 }
 .card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   font-family: Proxima;
   padding: 20px;
   position: relative;
@@ -23,6 +27,7 @@
   margin-top: 90px;
   margin-left: 20px;
   margin-right: 20px;
+
   min-width: 300px;
   max-width: 300px;
   border-radius: 10px;
@@ -37,4 +42,19 @@
 
 .card:hover {
   transform: scale(1.09);
+}
+
+.project__btn {
+  display: flex;
+  justify-content: center;
+  position: relative;
+  bottom: 0px;
+}
+.project__btn > .MuiButton-root {
+  margin-top: 20px;
+  margin-right: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
