@@ -16,7 +16,7 @@ const Projects = () => {
             {d.report !== "none" ? (
               <Button
                 startIcon={
-                  <Avatar src={require("../assets/page.png")}></Avatar>
+                  <Avatar src={require("../assets/pdf.png")}></Avatar>
                 }
                 variant="outlined"
                 href=""
@@ -34,7 +34,7 @@ const Projects = () => {
                 href=""
                 target="_blank"
               >
-                GITHUB
+                Code
               </Button>
             ) : null}
           </div>

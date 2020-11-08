@@ -18,7 +18,7 @@ export const Home = () => {
             variant="outlined"
             href={require("../assets/pdf/resume.pdf")}
             target="_blank"
-            startIcon={<Avatar src={require("../assets/page.png")}></Avatar>}
+            startIcon={<Avatar src={require("../assets/pdf.png")}></Avatar>}
           >
             {" "}
             RESUME
