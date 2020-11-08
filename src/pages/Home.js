@@ -13,7 +13,12 @@ export const Home = () => {
           I am currently working with <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html"
            target="_blank">Prof. Luc Van Gool</a>{" "}
           and <a href="https://people.ee.ethz.ch/~paudeld/" target="_blank">Dr. Danda P. Paudel</a> on continual learning.
+          <br></br>
+          <br></br>
+          Previously, I earned a Bachelor and a Master degree in Mathematics and Scientific Computing
+        at <a href="http://www.iitk.ac.in" target="_blank">IIT Kanpur</a> with a minor in Machine Learning. 
         </h4>
+        <br></br>
         <div className="main__introBtn">
           <Button
             className="main__introBtn1"
