@@ -34,13 +34,13 @@ export const Contact = () => {
         >
           <i className="fab fa-linkedin"></i>
         </a>
-        <a
+        {/* <a
           href="https://github.com/agpeshal"
           target="_blank"
           rel="noopener noreferrer"
         >
           <i className="fab fa-github"></i>
-        </a>
+        </a> */}
       </div>
     </div>
   );
