@@ -8,14 +8,6 @@ const data = [
     github: "none",
   },
   {
-    title: "Tissue Classification",
-    image: require("../assets/gene_2.png"),
-    summary:
-      "Predicted epithelial to mesenchymal transition and tissue hypoxia by using gene expression level of 35 genes for over 10k imbalanced samples for multiple domains. XGBoost performed the best among other methods.",
-    report: require("../assets/pdf/Report_tissue.pdf"),
-    github: "https://github.com/agpeshal/Gene-Expression",
-  },
-  {
     title: "Patient ratings and reviews",
     image: require("../assets/drug_rating.png"),
     summary:
@@ -38,6 +30,14 @@ const data = [
       "Implemented Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD) attacks on networks trained over CIFAR10 and MNIST.",
     report: "none",
     github: "https://github.com/agpeshal/Robustness",
+  },
+  {
+    title: "Tissue Classification",
+    image: require("../assets/gene_2.png"),
+    summary:
+      "Predicted epithelial to mesenchymal transition and tissue hypoxia by using gene expression level of 35 genes for over 10k imbalanced samples for multiple domains. XGBoost performed the best among other methods.",
+    report: require("../assets/pdf/Report_tissue.pdf"),
+    github: "https://github.com/agpeshal/Gene-Expression",
   },
   {
     title: "Bayesian Analysis of GSN",
