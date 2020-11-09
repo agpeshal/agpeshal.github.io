@@ -19,7 +19,7 @@ const Projects = () => {
                   <Avatar src={require("../assets/pdf.png")}></Avatar>
                 }
                 variant="outlined"
-                href=""
+                href={d.report}
                 target="_blank"
               >
                 Report
@@ -31,7 +31,7 @@ const Projects = () => {
                   <Avatar src={require("../assets/github-logo.png")}></Avatar>
                 }
                 variant="outlined"
-                href=""
+                href={d.github}
                 target="_blank"
               >
                 Code
