@@ -24,20 +24,20 @@ const data = [
     github: "https://github.com/agpeshal/Verifier",
   },
   {
-    title: "Topic Modeling with meta-data",
-    image: require("../assets/topic_modeling.png"),
-    summary:
-      "Analysed Dirichlet-Multinomial Regression (DMR) model for topic modeling with metadata. Derived and implemented Stochastic Gradient Riemann Langevin Dynamics on DMR model.",
-    report: require("../assets/pdf/TPMI_PPT.pdf"),
-    github: "none",
-  },
-  {
     title: "Adversarial ML",
     image: require("../assets/robustness.png"),
     summary:
       "Implemented Fast Gradient Sign Method (FGSM) and Projected Gradient Descent (PGD) attacks on networks trained over CIFAR10 and MNIST.",
     report: "none",
     github: "https://github.com/agpeshal/Robustness",
+  },
+  {
+    title: "Topic Modeling with meta-data",
+    image: require("../assets/topic_modeling.png"),
+    summary:
+      "Analysed Dirichlet-Multinomial Regression (DMR) model for topic modeling with metadata. Derived and implemented Stochastic Gradient Riemann Langevin Dynamics on DMR model.",
+    report: require("../assets/pdf/TPMI_PPT.pdf"),
+    github: "none",
   },
   {
     title: "Tissue Classification",
