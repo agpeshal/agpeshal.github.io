@@ -16,6 +16,14 @@ const data = [
     github: "https://colab.research.google.com/drive/1bDopddB67FAyV8A_51O6Z6ra_obHY5M8",
   },
   {
+    title: "Neural Network Verification",
+    image: require("../assets/deeppoly.png"),
+    summary:
+      "Build a precise and scalable automated verifier for proving the robustness of fully connected and convolutional neural networks against adversarial attacks",
+    report: require("../assets/pdf/Report_RIAI.pdf"),
+    github: "https://github.com/agpeshal/Verifier",
+  },
+  {
     title: "Topic Modeling with meta-data",
     image: require("../assets/topic_modeling.png"),
     summary:
