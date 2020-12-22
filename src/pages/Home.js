@@ -7,7 +7,7 @@ export const Home = () => {
   return (
     <div className="main">
       <div className="main__intro">
-        <h1>Hi There</h1>
+        <h1>Welcome | Herzlich Willkommen</h1>
         <h4>
           I am graduate student at ETH Zurich majoring in Statistics.
           I am currently working with <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html"
