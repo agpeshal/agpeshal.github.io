@@ -23,7 +23,7 @@ export const Home = () => {
           <Button
             className="main__introBtn1"
             variant="outlined"
-            href={require("../assets/pdf/resume.pdf")}
+            href={require("../assets/pdf/Resume.pdf")}
             target="_blank"
             startIcon={<Avatar src={require("../assets/pdf.png")}></Avatar>}
           >
