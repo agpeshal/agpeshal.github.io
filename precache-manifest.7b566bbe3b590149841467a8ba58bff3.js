@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c215cd6a450a24f7263728dc56b90ccb",
+    "revision": "0ce51a369f1bf205227ded7e1d1b7b02",
     "url": "/index.html"
   },
   {
-    "revision": "d81946382c0d8fb5c787",
-    "url": "/static/css/main.0b9e8c3f.chunk.css"
+    "revision": "df970a19cd126a4bee7d",
+    "url": "/static/css/main.da1ece1f.chunk.css"
   },
   {
-    "revision": "e14e3a2f9df145f4743a",
-    "url": "/static/js/2.26ddcf2c.chunk.js"
+    "revision": "eae6bd4dc5b355479bc0",
+    "url": "/static/js/2.039961ed.chunk.js"
   },
   {
     "revision": "6397acf4c5cafcd591a770ce33fc3e2f",
-    "url": "/static/js/2.26ddcf2c.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.039961ed.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d81946382c0d8fb5c787",
-    "url": "/static/js/main.2e78f339.chunk.js"
+    "revision": "df970a19cd126a4bee7d",
+    "url": "/static/js/main.b09facf6.chunk.js"
   },
   {
     "revision": "cee242085db46b08d7be",
@@ -44,6 +44,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Report_Hack4Good.ae299862.pdf"
   },
   {
+    "revision": "3b7db8b613a66195d2bb95cb98fc1a29",
+    "url": "/static/media/Report_RIAI.3b7db8b6.pdf"
+  },
+  {
     "revision": "fa44b1fc8596819f9670782335f8b8da",
     "url": "/static/media/Report_tissue.fa44b1fc.pdf"
   },
@@ -54,6 +58,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1588f17592714e74cd4ff5eb315c009e",
     "url": "/static/media/award.1588f175.JPG"
+  },
+  {
+    "revision": "5df6cbe64eff0e898e1c15dbb7255352",
+    "url": "/static/media/deeppoly.5df6cbe6.png"
   },
   {
     "revision": "32913427827b35c031bf5ed08f5b163d",

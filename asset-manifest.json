@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.0b9e8c3f.chunk.css",
-    "main.js": "/static/js/main.2e78f339.chunk.js",
-    "main.js.map": "/static/js/main.2e78f339.chunk.js.map",
+    "main.css": "/static/css/main.da1ece1f.chunk.css",
+    "main.js": "/static/js/main.b09facf6.chunk.js",
+    "main.js.map": "/static/js/main.b09facf6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.a6181433.js",
     "runtime-main.js.map": "/static/js/runtime-main.a6181433.js.map",
-    "static/js/2.26ddcf2c.chunk.js": "/static/js/2.26ddcf2c.chunk.js",
-    "static/js/2.26ddcf2c.chunk.js.map": "/static/js/2.26ddcf2c.chunk.js.map",
+    "static/js/2.039961ed.chunk.js": "/static/js/2.039961ed.chunk.js",
+    "static/js/2.039961ed.chunk.js.map": "/static/js/2.039961ed.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bab58d230e6b86f600431b117984751f.js": "/precache-manifest.bab58d230e6b86f600431b117984751f.js",
+    "precache-manifest.7b566bbe3b590149841467a8ba58bff3.js": "/precache-manifest.7b566bbe3b590149841467a8ba58bff3.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.0b9e8c3f.chunk.css.map": "/static/css/main.0b9e8c3f.chunk.css.map",
-    "static/js/2.26ddcf2c.chunk.js.LICENSE.txt": "/static/js/2.26ddcf2c.chunk.js.LICENSE.txt",
+    "static/css/main.da1ece1f.chunk.css.map": "/static/css/main.da1ece1f.chunk.css.map",
+    "static/js/2.039961ed.chunk.js.LICENSE.txt": "/static/js/2.039961ed.chunk.js.LICENSE.txt",
     "static/media/GoldmanSachs.jpeg": "/static/media/GoldmanSachs.08e13eff.jpeg",
     "static/media/PGP_PPT.pdf": "/static/media/PGP_PPT.f79ba88a.pdf",
     "static/media/index.css": "/static/media/Proxima.410504d4.otf",
     "static/media/Report_Hack4Good.pdf": "/static/media/Report_Hack4Good.ae299862.pdf",
+    "static/media/Report_RIAI.pdf": "/static/media/Report_RIAI.3b7db8b6.pdf",
     "static/media/Report_tissue.pdf": "/static/media/Report_tissue.fa44b1fc.pdf",
     "static/media/TPMI_PPT.pdf": "/static/media/TPMI_PPT.c6217121.pdf",
     "static/media/award.JPG": "/static/media/award.1588f175.JPG",
+    "static/media/deeppoly.png": "/static/media/deeppoly.5df6cbe6.png",
     "static/media/degree.png": "/static/media/degree.32913427.png",
     "static/media/drug_rating.png": "/static/media/drug_rating.4444b6b4.png",
     "static/media/fractal_reception.jpg": "/static/media/fractal_reception.931bfea1.jpg",
@@ -36,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.a6181433.js",
-    "static/js/2.26ddcf2c.chunk.js",
-    "static/css/main.0b9e8c3f.chunk.css",
-    "static/js/main.2e78f339.chunk.js"
+    "static/js/2.039961ed.chunk.js",
+    "static/css/main.da1ece1f.chunk.css",
+    "static/js/main.b09facf6.chunk.js"
   ]
 }
