@@ -13,6 +13,10 @@ function MyApp({ Component, pageProps }) {
           crossorigin="anonymous"
         />
         <meta
+          name="google-site-verification"
+          content="5oUo5GeqcU9rxLtCddjO73CAmGSHK61DJrTl-yj6P30"
+        />
+        <meta
           name="description"
           content="My name is Peshal Agarwal. I am a final year student at ETH Zurich. "
         />
