@@ -1,0 +1,22 @@
+.main{
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+.main__intro{
+  flex-basis: 100%;
+  margin: 250px;
+  font-size: 25px;
+}
+.main__image{
+ flex-basis: 100%;
+}
+.main__image img {
+  height: 100vh;
+}
+.main__blob {
+  height: 500px;
+  position: absolute;
+  top: -150px;
+  left: -150px;
+}
