@@ -19,9 +19,9 @@ const Projects = () => {
             <div className={styles.project__btn}>
               {d.report !== "none" ? (
                 <Button
-                  startIcon={<Avatar src="../assets/page.png"></Avatar>}
+                  startIcon={<Avatar src="/assets/page.png"></Avatar>}
                   variant="outlined"
-                  href=""
+                  href={d.report}
                   target="_blank"
                 >
                   Report
@@ -29,9 +29,9 @@ const Projects = () => {
               ) : null}
               {d.github !== "none" ? (
                 <Button
-                  startIcon={<Avatar src="../assets/github-logo.png"></Avatar>}
+                  startIcon={<Avatar src="/assets/github-logo.png"></Avatar>}
                   variant="outlined"
-                  href=""
+                  href={d.github}
                   target="_blank"
                 >
                   GITHUB
