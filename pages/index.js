@@ -12,12 +12,16 @@ export default function Home() {
       <div className={styles.main}>
         <div className={styles.main__intro}>
           <h1>Hi There</h1>
-          <h4>
-            I'm Peshal Agarwal, an aspiring Machine Learning Engineer. I am
-            graduate student at ETH Zurich majoring in Statistics.
-          </h4>
+          <p>
+            I am a graduate student at <a href="https://www.ethz.ch/en.html">ETH Zurich</a> majoring in Statistics with a focus on Machine learning.
+            I am broadly interested in applications of Deep learning and Computer Vision.
+            I recently worked on <a href="https://arxiv.org/abs/2103.14577">unsupervised domain adaptation</a> in <a href="https://vision.ee.ethz.ch/">Computer Vision Lab</a> with <a href="https://ee.ethz.ch/the-department/faculty/professors/person-detail.OTAyMzM=.TGlzdC80MTEsMTA1ODA0MjU5.html">Prof. Luc Van Gool</a> for my master thesis.
+            I have interned at IBM Research and Goldman Sachs in the past. 
+            Previously, I earned a BS and an MS degree in Mathematics and Computing from <a href="https://www.iitk.ac.in/">IIT Kanpur</a> in India where I worked on Bayesian Analysis with <a href="https://scholar.google.co.in/citations?user=yq8z1rIAAAAJ&hl=en&oi=ao">Prof. Debasis Kundu</a>.
+
+          </p>
           <div className={styles.main__introBtn}>
-            <Button
+            {/* <Button
               className={styles.main__introBtn1}
               variant="outlined"
               href="../assets/pdf/resume.pdf"
@@ -26,7 +30,7 @@ export default function Home() {
             >
               {" "}
               RESUME
-            </Button>
+            </Button> */}
             <Button
               href="https://github.com/agpeshal"
               target="_blank"
@@ -40,7 +44,7 @@ export default function Home() {
           </div>
         </div>
         <div className={styles.main__image}>
-          <img alt="background" src="../assets/peshal_final.png"></img>
+          <img alt="background" src="../assets/peshal.png"></img>
         </div>
       </div>
     </>
