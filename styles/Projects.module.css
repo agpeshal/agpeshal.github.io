@@ -20,14 +20,12 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  font-family: Proxima;
   padding: 20px;
   position: relative;
   flex: 1;
   margin-top: 90px;
   margin-left: 20px;
   margin-right: 20px;
-
   min-width: 300px;
   max-width: 300px;
   border-radius: 10px;

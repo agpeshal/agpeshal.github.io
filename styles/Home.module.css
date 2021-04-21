@@ -5,10 +5,9 @@
 }
 .main__intro {
   flex-basis: 100%;
-  margin: 250px;
-  margin-top: 18%;
-  font-size: 25px;
-  font-family: Proxima;
+  margin: 100px;
+  margin-top: 10%;
+  font-size: 20px;
   font-weight: lighter;
 }
 .main__image {
