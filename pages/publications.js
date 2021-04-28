@@ -8,6 +8,29 @@ const Publications = () => {
       <Head>
         <title>Publications | Peshal Agarwal ETH Zurich</title>
       </Head>
+      
+      <div className={styles.publications}>
+        <h1>Unsupervised Robust Domain Adaptation without Source Data</h1>
+        <h3>Abstract</h3>
+        <p>
+        We study the problem of robust domain adaptation in the context of unavailable target labels and source data.
+        The considered robustness is against adversarial perturbations. This paper aims at answering the question of
+        finding the right strategy to make the target model robust and accurate in the setting of unsupervised 
+        domain adaptation without source data. The major findings of this paper are: (i) robust source models 
+        can be transferred robustly to the target; (ii) robust domain adaptation can greatly benefit from non-robust 
+        pseudo-labels and the pair-wise contrastive loss. The proposed method of using non-robust pseudo-labels performs surprisingly 
+        well on both clean and adversarial samples, for the task of image classification. We show a consistent performance improvement
+        of over 10% in accuracy against the tested baselines on four benchmark datasets.
+        </p>
+        <a
+          href="https://arxiv.org/pdf/2103.14577.pdf"
+          download="SnapBoost: A Heterogeneous Boosting Machine"
+        >
+          <Button variant="contained" color="primary">
+            READ MORE
+          </Button>
+        </a>
+      </div>
       <div className={styles.publications}>
         <h1>SnapBoost: A Heterogeneous Boosting Machine</h1>
         <h3>Abstract</h3>
