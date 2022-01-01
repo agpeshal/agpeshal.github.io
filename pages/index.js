@@ -13,7 +13,11 @@ export default function Home() {
         <div className={styles.main__intro}>
           <h1>Hi There</h1>
           <p>
-            I am a graduate student at{" "}
+            I am a Software/CV Engineer at{" "}
+            <a style={{ color: "blue" }} href="https://www.hades.ai">
+            Hades Technologies AG.
+            </a>{" "}
+            I was a graduate student at{" "}
             <a style={{ color: "blue" }} href="https://www.ethz.ch/en.html">
               ETH Zurich
             </a>{" "}
