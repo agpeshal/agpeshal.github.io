@@ -37,7 +37,7 @@ education:
       year: 2018
     - course: BS in Mathematics and Computing
       institution: Indian Institute of Technology (IIT) Kanpur
-      year: 2017
+      year: 2018
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -107,9 +107,11 @@ social:
 highlight_name: true
 ---
 
-I am a Machine Learning engineer at [Pallon](http://www.pallon.com) (a ETH AI startup) responsible for building computer vision models to identify defects inside sewers. I earned my masters from ETH Zurich in 2021 and my BS-MS from IIT Kanpur in India.
+I am a Machine Learning engineer at [Pallon](http://www.pallon.com) (a ETH AI startup) responsible for building computer vision models to identify defects inside sewers. I earned my masters in Statistics with a focus on AI from [ETH Zurich](https://ethz.ch/en.html). I completed my masters thesis in [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning) under the supervision of [Prof. Luc Van Gool](https://scholar.google.co.in/citations?user=TwMib_QAAAAJ&hl=en) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH.
 
-I have interned at IBM Research and Goldman Sachs during my studies.
+Before moving to Switzerland, I did my bachelors and masters in Mathamatics and Scientific Computing from [IIT Kanpur](https://www.iitk.ac.in/) in India where I was fortunate to work with [Prof. Debasis Kundu](https://scholar.google.com/citations?user=yq8z1rIAAAAJ&hl=en).
+
+I had the privilege to intern at IBM Research and Goldman Sachs during my studies.
 
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
