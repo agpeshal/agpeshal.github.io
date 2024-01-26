@@ -107,5 +107,16 @@ social:
 highlight_name: true
 ---
 
-I am a Machine Learning engineer at [Pallon](http://www.pallon.com) (a ETH AI startup) 
+I am a Machine Learning engineer at [Pallon](http://www.pallon.com) (a ETH AI startup) responsible for building computer vision models to identify defects inside sewers. I earned my masters from ETH Zurich in 2021 and my BS-MS from IIT Kanpur in India.
+
+I have interned at IBM Research and Goldman Sachs during my studies.
+
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/ETH_Z%C3%BCrich_Logo_black.svg/192px-ETH_Z%C3%BCrich_Logo_black.svg.png" alt="Alt Text 1" style="width: auto; height: 30px;">
+    <img src="https://sarkarijobtrend.com/storage/2022/07/iitk-logo.png" alt="Alt Text 2" style="width: 250px; height: auto;">
+    <img src="https://imageio.forbes.com/specials-images/imageserve/62f12d261c21e21259d408c4/IBM/960x0.jpg" alt="Alt Text 3" style="width: 150px; height: auto;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Goldman_Sachs.svg" style="width:70px; height: auto">
+</div>
+
 {style="text-align: justify;"}
