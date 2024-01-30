@@ -107,11 +107,11 @@ social:
 highlight_name: true
 ---
 
-I am a Machine Learning engineer at [Pallon](http://www.pallon.com) (a ETH AI startup) responsible for building computer vision models to identify defects inside sewers. I earned my masters in Statistics with a focus on AI from [ETH Zurich](https://ethz.ch/en.html). I completed my masters thesis in [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning) under the supervision of [Prof. Luc Van Gool](https://scholar.google.co.in/citations?user=TwMib_QAAAAJ&hl=en) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH.
+I am a Machine Learning engineer at [Pallon](http://www.pallon.com) (a ETH AI startup) responsible for building computer vision models to identify defects inside sewers. I earned my masters in Statistics with a focus on AI from [ETH Zurich](https://ethz.ch/en.html). I completed my masters thesis in [Unsupervised Domain Adaptation](uploads/ETH_thesis_report.pdf) under the supervision of [Prof. Luc Van Gool](https://scholar.google.co.in/citations?user=TwMib_QAAAAJ&hl=en) at the [Computer Vision Lab](https://vision.ee.ethz.ch/) at ETH.
 
-Before moving to Switzerland, I did my bachelors and masters in Mathamatics and Scientific Computing from [IIT Kanpur](https://www.iitk.ac.in/) in India where I was fortunate to work with [Prof. Debasis Kundu](https://scholar.google.com/citations?user=yq8z1rIAAAAJ&hl=en).
+Before moving to Switzerland, I did my bachelors and masters in Mathamatics and Scientific Computing from [IIT Kanpur](https://www.iitk.ac.in/) in India where I was fortunate to work with [Prof. Debasis Kundu](https://scholar.google.com/citations?user=yq8z1rIAAAAJ&hl=en) on Bayesian Analysis.
 
-I had the privilege to intern at IBM Research and Goldman Sachs during my studies.
+I had the privilege to intern at IBM Research and Goldman Sachs during my studies. You can find some of work at [Google Scholar](https://scholar.google.co.in/citations?user=TD4121cAAAAJ&hl=en).
 
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
