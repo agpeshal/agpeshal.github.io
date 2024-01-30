@@ -75,17 +75,17 @@ sections:
       items:
         - title: Software Engineer (ML)
           company: Pallon
-          company_url: ''
+          company_url: 'http://www.pallon.com'
           company_logo: pallon
           location: Zurich, Switzerland
           date_start: '2021-08-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              -  Develop deep learning solutions for automating sewer inspection by identifying defects for 150+ clients.
+              - Trained transformers (Swin, DETR) for object detection and Segment Anything Model (SAM) for semantic segmentation on **1TB+** data.
+              - Led the team for transitioning the code base from **TensorFlow 1.x to PyTorch 2.0**, resulting in a notable 28% reduction in training time and 50% decrease in development time.
+              - Build data pipelines for training and **CI/CD framework** for smooth deployment. Integrated tools and services like Docker, MLFlow, GCP, and Poetry for optimized workflow.
 
     design:
       columns: '2'
