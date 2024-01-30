@@ -46,37 +46,37 @@ skills:
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 90
         icon: python
         icon_pack: fab
-      - name: Data Science
+      - name: PyTorch / Tensorflow
         description: ''
-        percent: 100
+        percent: 85
         icon: chart-line
         icon_pack: fas
-      - name: SQL
+      - name: GCP / AWS
         description: ''
-        percent: 40
-        icon: database
+        percent: 85
+        icon: cloud
         icon_pack: fas
-  - name: Hobbies
+  - name: Domain
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Machine Learning
         description: ''
-        percent: 60
+        percent: 85
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Statistics
         description: ''
-        percent: 100
-        icon: cat
+        percent: 85
+        icon: person-hiking
         icon_pack: fas
-      - name: Photography
+      - name: Linear Algebra
         description: ''
-        percent: 80
-        icon: camera-retro
+        percent: 95
+        icon: person-hiking
         icon_pack: fas
 
 # Social/Academic Networking
