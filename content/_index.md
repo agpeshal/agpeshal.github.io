@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
   - block: collection
     id: featured
     content:
@@ -86,33 +78,17 @@ sections:
               - Trained transformers (Swin, DETR) for object detection and Segment Anything Model (SAM) for semantic segmentation on **1TB+** data.
               - Led the team for transitioning the code base from **TensorFlow 1.x to PyTorch 2.0**, resulting in a notable 28% reduction in training time and 50% decrease in development time.
               - Build data pipelines for training and **CI/CD framework** for smooth deployment. Integrated tools and services like Docker, MLFlow, GCP, and Poetry for optimized workflow.
+    design:
+      columns: '2'
 
-    design:
-      columns: '2'
-  - block: accomplishments
+  - block: skills
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://coursera.org/share/f7509fe2dd6390eb2716214ab0db74b4
-          date_end: ''
-          date_start: '2020-10-03'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Introduction to Docker
-          url: ''
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
     design:
-      columns: '2'
+      columns: '1'
   - block: portfolio
     id: projects
     content:
@@ -154,6 +130,30 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: accomplishments
+    content:
+      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+      title: 'Accomplish&shy;ments'
+      subtitle:
+      # Date format: https://docs.hugoblox.com/customization/#date-format
+      date_format: Jan 2006
+      # Accomplishments.
+      #   Add/remove as many `item` blocks below as you like.
+      #   `title`, `organization`, and `date_start` are the required parameters.
+      #   Leave other parameters empty if not required.
+      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+      items:
+        - certificate_url: https://coursera.org/share/f7509fe2dd6390eb2716214ab0db74b4
+          date_end: ''
+          date_start: '2020-10-03'
+          description: ''
+          icon: coursera
+          organization: Coursera
+          organization_url: https://www.coursera.org
+          title: Introduction to Docker
+          url: ''
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
