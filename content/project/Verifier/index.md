@@ -3,7 +3,7 @@ title: Neural Network Verifier
 summary: Build a precise and scalable automated verifier for proving the robustness of fully connected and convolutional neural networks against adversarial attacks
 tags:
   - Deep Learning
-date: '2020-04-27T00:00:00Z'
+date: '2020-09-27T00:00:00Z'
 
 image:
   caption: 
