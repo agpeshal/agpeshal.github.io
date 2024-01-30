@@ -12,5 +12,5 @@ image:
   focal_point: Smart
 
 links:
-url_pdf: 'PGP_report.pdf'
+url_pdf: 'uploads/PGP_Report.pdf'
 ---
